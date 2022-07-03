@@ -2,7 +2,7 @@
 
 ## About
 
-Super-simple script to interactively navigate your visited and added  directories using `peco` command in ZSH via a keyboard shortcut (default: **CTRL + r**).
+Super-simple script to interactively navigate your visited and added  directories using `peco` command in ZSH via a keyboard shortcut (default: **CTRL + f**).
 
 The list of these aforementioned directories is obtained from the `z` command.
 
@@ -31,4 +31,4 @@ Copy and paste the following and you're done:
 
 `bindkey -s '^F' 'source /Users/vidhupopli/.config/scripts/peco-z.sh^M`
 
-Start a new shell to begin using.
+Start a new shell to begin using with **Ctrl + f**.
