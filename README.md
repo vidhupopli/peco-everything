@@ -2,9 +2,9 @@
 
 ## About
 
-Super-simple script to interactively navigate your visited directories using `peco` command in ZSH via a keyboard shortcut (default: **CTRL + r**).
+Super-simple script to interactively navigate your visited and added  directories using `peco` command in ZSH via a keyboard shortcut (default: **CTRL + r**).
 
-The list of these visited directories is obtained from the `z` command.
+The list of these aforementioned directories is obtained from the `z` command.
 
 ## Three steps to follow
 
