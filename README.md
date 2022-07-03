@@ -6,6 +6,8 @@ Super-simple script to interactively navigate your visited and added  directorie
 
 The list of these aforementioned directories is obtained from the `z` command.
 
+![](https://github.com/vidhupopli/peco-everything/usage.gif)
+
 ## Three steps to follow
 
 ### Outline
